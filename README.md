@@ -1,4 +1,4 @@
-# DevFocus - A tool which makes devs time in resolving bugs while leveraging Azure Cloud Services 
+# DevFocus - A tool which reduces devs time in resolving bugs while leveraging Azure Cloud Services 
 
 
 # The Problem
