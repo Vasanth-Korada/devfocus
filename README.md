@@ -1,4 +1,4 @@
-# DevFocus - A tool which reduces devs time in resolving bugs while leveraging Azure Cloud Services 
+# DevFocus - A tool that reduces the Dev's time in resolving bugs while leveraging Azure Cloud Services 
 
 
 # The Problem
@@ -9,11 +9,11 @@
 5. A developer has to focus more on each and every statement to get understand the changes which caused a bug.
 
 # Build and Test
-1. Trace the bug with exact scenario
-2. Finds the exact location from file repo
+1. Trace the bug with the exact scenario
+2. Finds the exact location from the file repo
 3. Takes the image snap of line and location.
 4. Reports the complete details to the developer.
-5. Shows the latest changes of code that might caused the bug
+5. Shows the latest changes of code that might cause the bug
 6. Reduces the time of tracking  and fixing the bug
 
 # Azure Services Used
