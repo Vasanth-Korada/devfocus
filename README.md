@@ -16,7 +16,7 @@
 5. Shows the latest changes of code that might caused the bug
 6. Reduces the time of tracking  and fixing the bug
 
-# Azures Services Used
+# Azure Services Used
 1. Azure VM
 2. Azure Notification Hub
 3. Azure Cosmos DB
